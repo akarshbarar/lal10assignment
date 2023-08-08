@@ -1,0 +1,7 @@
+{
+    "extends": ["eslint:recommended", "plugin:prettier/recommended"],
+    "rules": {
+      // Add any specific rules you want to enforce here
+    }
+  }
+  
